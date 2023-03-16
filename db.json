@@ -3,5 +3,7 @@
   "wishlist": [],
   "cart": [],
   "data": [],
-  "order": []
+  "order": [],
+  "users":[],
+  "hotels":[]
 }
